@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="30972" started-at="2019-04-04T15:50:15Z" finished-at="2019-04-04T15:50:46Z">
+  <suite name="Surefire suite" duration-ms="55080" started-at="2019-04-04T16:27:25Z" finished-at="2019-04-04T16:28:20Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="30972" started-at="2019-04-04T15:50:15Z" finished-at="2019-04-04T15:50:46Z">
+    <test name="Surefire test" duration-ms="55080" started-at="2019-04-04T16:27:25Z" finished-at="2019-04-04T16:28:20Z">
       <class name="com.sqa.automation.test.AdherenceTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.sqa.automation.test.AdherenceTest@3fb6a447]" name="setup" is-config="true" duration-ms="2320" started-at="2019-04-04T15:50:15Z" finished-at="2019-04-04T15:50:18Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sqa.automation.test.AdherenceTest@380fb434]" name="setup" is-config="true" duration-ms="16619" started-at="2019-04-04T16:27:25Z" finished-at="2019-04-04T16:27:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.sqa.automation.test.AdherenceTest@3fb6a447]" name="loginTest" duration-ms="7831" started-at="2019-04-04T15:50:18Z" finished-at="2019-04-04T15:50:25Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.sqa.automation.test.AdherenceTest@380fb434]" name="loginTest" duration-ms="15635" started-at="2019-04-04T16:27:42Z" finished-at="2019-04-04T16:27:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="navegationTest()[pri:1, instance:com.sqa.automation.test.AdherenceTest@3fb6a447]" name="navegationTest" duration-ms="11620" started-at="2019-04-04T15:50:25Z" finished-at="2019-04-04T15:50:37Z">
+        <test-method status="PASS" signature="navegationTest()[pri:1, instance:com.sqa.automation.test.AdherenceTest@380fb434]" name="navegationTest" duration-ms="11624" started-at="2019-04-04T16:27:57Z" finished-at="2019-04-04T16:28:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- navegationTest -->
-        <test-method status="FAIL" signature="ValidateProcedure()[pri:2, instance:com.sqa.automation.test.AdherenceTest@3fb6a447]" name="ValidateProcedure" duration-ms="3053" started-at="2019-04-04T15:50:37Z" finished-at="2019-04-04T15:50:40Z">
+        <test-method status="FAIL" signature="ValidateProcedure()[pri:2, instance:com.sqa.automation.test.AdherenceTest@380fb434]" name="ValidateProcedure" duration-ms="3759" started-at="2019-04-04T16:28:09Z" finished-at="2019-04-04T16:28:13Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -65,11 +65,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidateProcedure -->
-        <test-method status="PASS" signature="clouseAS400()[pri:3, instance:com.sqa.automation.test.AdherenceTest@3fb6a447]" name="clouseAS400" duration-ms="6124" started-at="2019-04-04T15:50:40Z" finished-at="2019-04-04T15:50:46Z">
+        <test-method status="PASS" signature="clouseAS400()[pri:3, instance:com.sqa.automation.test.AdherenceTest@380fb434]" name="clouseAS400" duration-ms="6905" started-at="2019-04-04T16:28:13Z" finished-at="2019-04-04T16:28:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clouseAS400 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sqa.automation.test.AdherenceTest@3fb6a447]" name="teardown" is-config="true" duration-ms="0" started-at="2019-04-04T15:50:46Z" finished-at="2019-04-04T15:50:46Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sqa.automation.test.AdherenceTest@380fb434]" name="teardown" is-config="true" duration-ms="1" started-at="2019-04-04T16:28:20Z" finished-at="2019-04-04T16:28:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
