@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="N11 Test Suite" duration-ms="35426" started-at="2019-04-03T13:56:03Z" finished-at="2019-04-03T13:56:38Z">
+    <groups>
+    </groups>
+    <test name="CaseTest" duration-ms="35426" started-at="2019-04-03T13:56:03Z" finished-at="2019-04-03T13:56:38Z">
+      <class name="com.sqa.automation.test.AdherenceTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sqa.automation.test.AdherenceTest@1c2c22f3]" name="setup" is-config="true" duration-ms="2137" started-at="2019-04-03T13:56:03Z" finished-at="2019-04-03T13:56:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.sqa.automation.test.AdherenceTest@1c2c22f3]" name="loginTest" duration-ms="11005" started-at="2019-04-03T13:56:05Z" finished-at="2019-04-03T13:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="navegationTest()[pri:1, instance:com.sqa.automation.test.AdherenceTest@1c2c22f3]" name="navegationTest" duration-ms="11625" started-at="2019-04-03T13:56:16Z" finished-at="2019-04-03T13:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navegationTest -->
+        <test-method status="PASS" signature="ValidateProcedure()[pri:2, instance:com.sqa.automation.test.AdherenceTest@1c2c22f3]" name="ValidateProcedure" duration-ms="3043" started-at="2019-04-03T13:56:28Z" finished-at="2019-04-03T13:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateProcedure -->
+        <test-method status="PASS" signature="clouseAS400()[pri:3, instance:com.sqa.automation.test.AdherenceTest@1c2c22f3]" name="clouseAS400" duration-ms="6806" started-at="2019-04-03T13:56:31Z" finished-at="2019-04-03T13:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clouseAS400 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sqa.automation.test.AdherenceTest@1c2c22f3]" name="teardown" is-config="true" duration-ms="0" started-at="2019-04-03T13:56:38Z" finished-at="2019-04-03T13:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sqa.automation.test.AdherenceTest -->
+    </test> <!-- CaseTest -->
+  </suite> <!-- N11 Test Suite -->
+</testng-results>

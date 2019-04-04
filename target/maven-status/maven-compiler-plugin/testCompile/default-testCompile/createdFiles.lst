@@ -1,0 +1,8 @@
+com\sqa\automation\test\AdherenceTest.class
+com\sqa\automation\test\SetupTest.class
+com\sqa\automation\util\listeners\TestListener.class
+com\sqa\automation\util\listeners\AnnotationTransformer.class
+com\sqa\automation\test\Main.class
+com\sqa\automation\util\listeners\Retry.class
+com\sqa\automation\util\ExtentManager.class
+com\sqa\automation\util\ExtentTestManager.class

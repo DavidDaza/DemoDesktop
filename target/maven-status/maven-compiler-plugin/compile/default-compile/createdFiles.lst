@@ -1,0 +1,6 @@
+com\sqa\automation\util\functions\ActionDesktop.class
+com\sqa\automation\util\functions\Util.class
+com\sqa\automation\util\functions\LogInfo.class
+com\sqa\automation\pages\Home.class
+com\sqa\automation\util\functions\ActionGui.class
+com\sqa\automation\util\functions\FunctionsSelenium.class
