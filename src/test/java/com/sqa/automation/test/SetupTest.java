@@ -34,7 +34,7 @@ public class SetupTest {
         killProcess(service);
         actionDesktop = new ActionDesktop();
         actionGui = new ActionGui();
-        actionDesktop.iniciarApp("C:\\Program Files (x86)\\MochaSoft\\Mocha TN5250 for Vista\\tn5250.exe", System.getProperty("user.dir") + "\\Winium.Desktop.Driver.exe");
+        actionDesktop.iniciarApp("C:\\Program Files (x86)\\MochaSoft\\Mocha TN5250 for Vistass\\tn5250.exe", System.getProperty("user.dir") + "\\Winium.Desktop.Driver.exe");
         actionDesktop.espera(2);
 //        util.frontApp("tn5250");
     }
